@@ -316,7 +316,7 @@ Where: W = width, H = height, V = nodes, E = edges
 Want to enhance this project? Try:
 
 1. **Random Maze Generator**: Use DFS to carve passages
-2. **A* Algorithm**: Add heuristic-based pathfinding
+2. **A Algorithm**: Add heuristic-based pathfinding
 3. **Multiple Goals**: Find shortest path to any goal
 4. **Performance Comparison**: Measure BFS vs DFS times
 5. **Interactive Maze**: Allow users to set walls dynamically
@@ -344,4 +344,5 @@ Perfect for learning graph theory and algorithm design! 🚀
 ---
 
 **Happy Pathfinding! 🎯**
+
 
