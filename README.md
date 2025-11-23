@@ -329,7 +329,7 @@ Want to enhance this project? Try:
 This is an educational project. Feel free to use and modify!
 
 ---
-
+## 👨‍💻 Author **Anuj Rawat**
 ## 👨‍💻 Author Notes
 
 This project demonstrates:
@@ -344,3 +344,4 @@ Perfect for learning graph theory and algorithm design! 🚀
 ---
 
 **Happy Pathfinding! 🎯**
+
